@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 -👀I'm interested in cybersecurity
 -🌱I'm learning Linux
 -💞I'm looking to collaborate on the lastest security breaches
--How to reach me is ColinTaylen @Github
+-How to reach me is 95250448+ColinTaylen@users.noreply.github.com
+
